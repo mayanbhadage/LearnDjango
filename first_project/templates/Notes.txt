@@ -1,0 +1,5 @@
+TEMPLATES
+Create Template dir
+and inside template dir create a dir for each project and inside that you have the html
+
+we have to know django that we have a template directory so we have to add path in settings.py
